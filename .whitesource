@@ -20,6 +20,6 @@
     }
   },
   "scanSettingsSAST": {
-    "enableScan": "false"
+    "enableScan": "true"
   }
 }
