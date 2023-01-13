@@ -4,6 +4,7 @@ import java.sql.ResultSet;
 public class Twoo {
 
     private String PASSWORD = "!!webgoat_admin_1234!!";
+    private String PASSWORD_1 = "!!ddddd!!";
 
     @PostMapping("/challenge/5")
     @ResponseBody
