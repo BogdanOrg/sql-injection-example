@@ -20,7 +20,10 @@
     }
   },
   "scanSettingsSAST": {
-    "enableScan": "true",
-    "enableRemediation": "true"
+    "enableScan": "true"
+  },
+  "checkRunSettingSAST": {
+    "checkRunConclusionLevel": "success",
+    "severityThreshold": "high"
   }
 }
