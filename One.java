@@ -3,6 +3,9 @@ import java.sql.ResultSet;
 
 public class One {
 
+    private String PASSWORD = "!!sfsdfs!!";
+    private String USERNAME = "azaz";
+
     @PostMapping("/challenge/5")
     @ResponseBody
     public AttackResult login(
