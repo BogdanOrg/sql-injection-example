@@ -24,6 +24,6 @@
   },
   "checkRunSettingSAST": {
     "checkRunConclusionLevel": "failure",
-    "severityThreshold": "medium"
+    "severityThreshold": "high"
   }
 }

@@ -3,6 +3,8 @@ import java.sql.ResultSet;
 
 public class Three {
 
+    private String PASSWORD = "!!webgoat_admin_1234!!";
+
     @PostMapping("/challenge/5")
     @ResponseBody
     public AttackResult login(
