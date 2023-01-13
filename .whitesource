@@ -21,5 +21,8 @@
   },
   "scanSettingsSAST": {
     "enableScan": "true"
+  },
+  "checkRunSettingSAST": {
+    "checkRunConclusionLevel": "success"
   }
 }
