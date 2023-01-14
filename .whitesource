@@ -23,6 +23,7 @@
     "enableScan": "true"
   },
   "checkRunSettingsSAST": {
-    "checkRunConclusionLevel": "failure"
+    "checkRunConclusionLevel": "failure",
+    "severityThreshold": "medium"
   }
 }
