@@ -25,7 +25,7 @@ public class Example extends AssignmentEndpoint {
   @PostMapping("/challenge/5")
   @ResponseBody
   public AttackResult login(
-      @RequestParam String username_login, @RequestParam String password_login, @RequestParam String one_more_param) throws Exception {
+      @RequestParam String username_login, @RequestParam String password_login) throws Exception {
     if (!StringUtils.hasText(username_login) || !StringUtils.hasText(password_login)) {
       return failed(this).feedback("required4").build();
     }
@@ -39,9 +39,6 @@ public class Example extends AssignmentEndpoint {
                   + username_login
                   + "' and password = '"
                   + password_login
-                  + "'"
-                  + "' and one more param = '"
-                  + one_more_param
                   + "'");
       ResultSet resultSet = statement.executeQuery();
 
