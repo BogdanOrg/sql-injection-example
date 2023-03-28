@@ -21,7 +21,7 @@
   },
   "scanSettingsSAST": {
     "enableScan": "true",
-    "snippetSize": 5
+    "snippetSize": 10
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "success",
