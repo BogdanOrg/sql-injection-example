@@ -8,6 +8,6 @@
             "perFile": 888
         },
         "maxFileSize": 45,
-        "javaEngineGeneration": 2
+        "javaEngineGeneration": 1
     }
 }
