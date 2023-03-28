@@ -21,7 +21,8 @@
   },
   "scanSettingsSAST": {
     "enableScan": "true",
-    "snippetSize": 10
+    "snippetSize": 10,
+    "configExternalURL": "https://github.com/BogdanOrg/external-config/blob/main/.mendsastcli-config.json"
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "success",
