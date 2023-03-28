@@ -21,6 +21,7 @@ public class Example extends AssignmentEndpoint {
     this.dataSource = dataSource;
   }
 
+  
   @PostMapping("/challenge/5")
   @ResponseBody
   public AttackResult login(
