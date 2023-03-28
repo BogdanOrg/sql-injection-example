@@ -21,8 +21,7 @@
   },
   "scanSettingsSAST": {
     "enableScan": "true",
-    "snippetSize": 10,
-    "configExternalURL": "https://github.com"
+    "snippetSize": 10
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "success",
