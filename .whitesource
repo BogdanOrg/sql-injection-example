@@ -20,11 +20,8 @@
     }
   },
   "scanSettingsSAST": {
-    "enableScan": "true",
-    "snippetSize": 10
-  },
-  "checkRunSettingsSAST": {
-    "checkRunConclusionLevel": "success",
-    "severityThreshold": "medium"
+    "enableScan": true,
+    "scanPullRequests": true,
+    "enableRemediation": false
   }
 }
