@@ -22,6 +22,7 @@
   "scanSettingsSAST": {
     "enableScan": true,
     "scanPullRequests": true,
-    "enableRemediation": false
+    "enableRemediation": false,
+    "snippetSize": 5
   }
 }
