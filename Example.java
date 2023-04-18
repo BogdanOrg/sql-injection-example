@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 @Slf4j
 public class Example extends AssignmentEndpoint {
   
+  
   private final LessonDataSource dataSource;
   
   public Example(LessonDataSource dataSource) {
