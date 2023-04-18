@@ -21,6 +21,7 @@
   },
   "scanSettingsSAST": {
     "enableScan": true,
+    "configExternalURL": "https://github.com",
     "scanPullRequests": true,
     "enableRemediation": false,
     "snippetSize": 1
