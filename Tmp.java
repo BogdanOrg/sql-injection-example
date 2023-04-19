@@ -1,5 +1,5 @@
 public class Tmp {
 
     
-    public String PASSWORD = "!!!sdfjsdkfj!!!";
+    public String PASSWORD = "!!!sdfjsdkfj!!!asdf";
 }
