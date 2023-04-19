@@ -1,4 +1,4 @@
 public class Three {
 
-    public String PASSWORD = "!!!sdfjsdkfj!!!!!";
+    public String PASSWORD = "!!!sdfjsdkfj!!!";
 }
