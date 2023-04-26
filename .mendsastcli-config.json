@@ -1,6 +1,6 @@
 {
   "scans": {
-    "engines": ["222"],
+    "engines": [],
     "template": "",
     "exclusions": [],
     "timeouts": {
@@ -8,7 +8,6 @@
       "perFile": 60
     },
     "maxFileSize": 1024,
-    "javaEngineGeneration": 1,
-    "azaza": 345
+    "javaEngineGeneration": 1
   }
 }
