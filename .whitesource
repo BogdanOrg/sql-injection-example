@@ -24,6 +24,6 @@
     "scanPullRequests": true,
     "enableRemediation": false,
     "snippetSize": 2,
-    "basebranches": ["feature"]
+    "baseBranches": ["feature"]
   }
 }
