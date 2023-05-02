@@ -1,5 +1,4 @@
 public class Two {
 
-    public String PASSWORD = "!!!sdfjsdkfj!!!";
-    
+    public String PASSWORD = "!!!sdfjsdkfj!!!";    
 }
