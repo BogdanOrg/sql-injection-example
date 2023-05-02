@@ -23,7 +23,7 @@
     "enableScan": true,
     "scanPullRequests": true,
     "enableRemediation": false,
-    "snippetSize": 2,
+    "snippetSize": 10,
     "baseBranches": ["feature"]
   }
 }
