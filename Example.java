@@ -17,6 +17,7 @@ public class Example extends AssignmentEndpoint {
   
  private final LessonDataSource dataSource;  
   
+  
   public Example(LessonDataSource dataSource) {
     this.dataSource = dataSource;
   }
