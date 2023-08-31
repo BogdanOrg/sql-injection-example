@@ -20,6 +20,7 @@ public class Example extends AssignmentEndpoint {
   public Example(LessonDataSource dataSource) {
     this.dataSource = dataSource;
   }  
+
   
   @PostMapping("/challenge/5")
   @ResponseBody
