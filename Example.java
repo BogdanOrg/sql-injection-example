@@ -22,6 +22,7 @@ public class Example extends AssignmentEndpoint {
   }  
 
   
+  
   @PostMapping("/challenge/5")
   @ResponseBody
   public AttackResult login(
